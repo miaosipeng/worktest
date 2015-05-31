@@ -170,7 +170,7 @@
 			<artifactId>javax.servlet-api</artifactId>
 			<scope>provided</scope>
 		</dependency>
-<!--		<dependency>
+		<dependency>
 			<groupId>javax.servlet.jsp</groupId>
 			<artifactId>javax.servlet.jsp-api</artifactId>
 			<scope>provided</scope>
@@ -178,7 +178,7 @@
 		<dependency>
 			<groupId>javax.servlet.jsp.jstl</groupId>
 			<artifactId>javax.servlet.jsp.jstl-api</artifactId>
-		</dependency> -->
+		</dependency>
 		<dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
@@ -464,7 +464,7 @@
 				<artifactId>javax.servlet-api</artifactId>
 				<version>3.1.0</version>
 			</dependency>
-	<!--		<dependency>
+			<dependency>
 				<groupId>javax.servlet.jsp</groupId>
 				<artifactId>javax.servlet.jsp-api</artifactId>
 				<version>2.2.1</version>
@@ -473,7 +473,7 @@
 				<groupId>javax.servlet.jsp.jstl</groupId>
 				<artifactId>javax.servlet.jsp.jstl-api</artifactId>
 				<version>1.2.1</version>
-			</dependency>   -->
+			</dependency>
 			<dependency>
 				<groupId>taglibs</groupId>
 				<artifactId>standard</artifactId>
